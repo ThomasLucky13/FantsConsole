@@ -1,0 +1,8 @@
+C:\Users\Милена\Desktop\Fantiu\Fantiu\bin\Debug\Fantiu.exe.config
+C:\Users\Милена\Desktop\Fantiu\Fantiu\bin\Debug\Fantiu.exe
+C:\Users\Милена\Desktop\Fantiu\Fantiu\bin\Debug\Fantiu.pdb
+C:\Users\Милена\Desktop\Fantiu\Fantiu\obj\Debug\Fantiu.csproj.AssemblyReference.cache
+C:\Users\Милена\Desktop\Fantiu\Fantiu\obj\Debug\Fantiu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Милена\Desktop\Fantiu\Fantiu\obj\Debug\Fantiu.csproj.CoreCompileInputs.cache
+C:\Users\Милена\Desktop\Fantiu\Fantiu\obj\Debug\Fantiu.exe
+C:\Users\Милена\Desktop\Fantiu\Fantiu\obj\Debug\Fantiu.pdb
